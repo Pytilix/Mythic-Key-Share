@@ -1,0 +1,10 @@
+## Interface: 120000
+## Title: Mythic+ Key Share
+## Notes: !key in Party Chat
+## Author: Pytilix
+## Version: 12.3
+## X-License: All Rights Reserved
+## X-Copyright: Copyright (c) 2021-2026 Pytilix. All rights reserved.
+## IconTexture: Interface\Icons\Spell_Shadow_AnimateShadow
+
+Core.lua
